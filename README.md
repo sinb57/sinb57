@@ -2,16 +2,22 @@
 
 Java BackEnd 개발자를 꿈꾸고 있는 **이프(sinb57)** 입니다!!  
 
-<br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinb57&show_icons=true&theme=radical)
+<p>
+  <a href="#">
+    <!--   graywhite or nord theme -->
+      <img src="https://github-readme-stats.vercel.app/api?username=sinb57&show_icons=true&theme=radical" height="150px">
+  </a>
+  <a href="#">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlsqhd97" height="150px">
+  </a>
+</p>
 
 <br>
 
 📌 활동 이력  
 ```
-- 우아한테크코스 4기 BE
-- K.knock
+- 우아한테크코스 4기 BE (현재)
+- K.knock (졸업)
 ```
 <br>
 
