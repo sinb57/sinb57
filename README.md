@@ -16,7 +16,7 @@ Java BackEnd 개발자를 꿈꾸고 있는 **이프(sinb57)** 입니다!!
 <br>
 
 🐞 버그바운티  
-SQL Injection, RCE 등 KISA 제보 17건 [kve](/BugBounty_history.md)
+SQL Injection, RCE 등 KISA 제보 17건 [kve](/BugBounty_History.md)
 
 <br>
 
