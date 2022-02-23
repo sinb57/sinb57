@@ -22,7 +22,8 @@ Java BackEnd 개발자를 꿈꾸고 있는 **이프(sinb57)** 입니다!!
 <br>
 
 🐞 버그바운티  
-SQL Injection, RCE 등 KISA 제보 17건 [kve](/BugBounty_History.md)
+- 2021 KISA 버그바운티 TOP10 달성 (7th) <a href="https://www.krcert.or.kr/consult/software/honorList.do">명예의 전당</a>  
+- SQL Injection, RCE 등 KISA 제보 17건 <a href="/BugBounty_History.md">KVE 이력</a>  
 
 <br>
 
