@@ -11,7 +11,7 @@
 
 * KVE-2021-1706  Stored XSS와 CSRF를 연계한, 메일발송기능 체이닝 RCE
 
-* KVE-2021-1707  Stored XSS를 연계한 LFI 체이닝 RCE
+* KVE-2021-1707  Stored XSS를 연계한 LFI 체이닝 RCE (**CVE-2021-26628**)
 
 * KVE-2021-2058  Blind SQL Injection
 
