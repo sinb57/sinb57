@@ -7,7 +7,7 @@
 
 * KVE-2021-1261  파라미터 조작을 통한 결제 금액 변조 [CVE-2021-26631](https://knvd.krcert.or.kr/detailDos.do?IDX=5610)
 
-* KVE-2021-1676  Stored XSS와 SQL Injection을 연계한 체이닝 RCE
+* KVE-2021-1676  Stored XSS와 SQL Injection을 연계한 체이닝 RCE [CVE-2021-26636](https://knvd.krcert.or.kr/detailDos.do?IDX=5643)
 
 * KVE-2021-1706  Stored XSS와 CSRF를 연계한, 메일발송기능 체이닝 RCE
 
